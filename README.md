@@ -2,14 +2,12 @@
 
 ### Mechanical Engineering Student
 
-I am a Freshman studying Mechanical Engineering at Texas A&M University. I am passionate about solving complex problems, building efficient systems, and applying my engineering knowledge to real-world projects. I am currently actively seeking engineering internship opportunities.
-
 ---
 
 ## Technical Skills
-* **Programming Languages:** Python, C++
-* **Software & Tools:** AutoCAD, SolidWorks, Fusion360
-* **Concepts & Hardware:** Mechanical Assembly, Electrical Wiring
+* **CAD & Design:** SolidWorks, OnShape, Fusion360, Revit
+* **Manufacturing & Fabrication:** 3D Printing, Heat Inserts, Precision Measurement, Low-Voltage Wiring
+* **Software:** Python, Microsoft Excel
 
 ---
 
@@ -22,5 +20,5 @@ I am a Freshman studying Mechanical Engineering at Texas A&M University. I am pa
 ---
 
 ## Let's Connect
-* **LinkedIn:** https://www.linkedin.com/in/vo-minh-hieu-phan-a505a43a2/?skipRedirect=true
+* **LinkedIn:** https://www.linkedin.com/in/vominhhieuphan/
 * **Email:** hpharryphan@gmail.com
