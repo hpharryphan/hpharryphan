@@ -1,6 +1,6 @@
 # Welcome to my portfolio, I'm Harry.
 
-### Engineering Student | Aspiring Mechanical Engineer
+### Mechanical Engineering Student
 
 I am a Freshman studying Mechanical Engineering at Texas A&M University. I am passionate about solving complex problems, building efficient systems, and applying my engineering knowledge to real-world projects. I am currently actively seeking engineering internship opportunities.
 
