@@ -22,4 +22,4 @@
 
 ## Let's Connect
 * **LinkedIn:** https://www.linkedin.com/in/vominhhieuphan/
-* **Email:** hpharryphan@gmail.com
+* **Email:** hp.harryphan@gmail.com
