@@ -5,9 +5,10 @@
 ---
 
 ## Technical Skills
-* **CAD & Design:** SolidWorks, OnShape, Fusion360, Revit
-* **Manufacturing & Fabrication:** 3D Printing, Heat Inserts, Precision Measurement, Low-Voltage Wiring
-* **Software:** Python, Microsoft Excel
+* **CAD & Simulation:** SolidWorks, Fusion360, Onshape, ANSYS (Dynamic/Static Structural, Vibration)
+* **Design & Manufacturing:** DFM, DFA, GD&T, Engineering Drawings, 3D Printing (SLS/FDM), Rapid Prototyping
+* **Mechanical Systems:** Cycloidal Reducers, Planetary Gears, Timing Belts, Bearing & Fastener Selection
+* **Software & Analysis:** Python, FEA, Microsoft Excel, Word, PowerPoint, Torque/Speed Calculations, Electromechanical Integration (LiPo, ESC, Servos)
 
 ---
 
